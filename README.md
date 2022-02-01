@@ -37,6 +37,12 @@ Lateral Movement consists of techniques that adversaries use to enter and contro
  mimikatz#securlsa::wdigest
  ```
 
+#### Brute Force: Password Spraying
+ * [DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) : we are connect with NTLM hash to exchange.
+ ```
+ site:https://mail.test.com/ews
+ ```
+ * [Password Spraying Outlook Web Access: Remote Shell](https://www.ired.team/offensive-security/initial-access/password-spraying-outlook-web-access-remote-shell)
 
 
 ### Tools
